@@ -18,11 +18,9 @@ assignees: ''
 ```
 
 ## Team Member(Lead name, dreamer name, dreamer name, dreamer name...)
-
 - 
 
 ## Planning Drafts(include define a problem)
-
 -
 
 ## Workflow
@@ -32,9 +30,7 @@ assignees: ''
 - 
 
 ## Results
-
 -
 
 ## Retrospective(include team insight)
-
 -
