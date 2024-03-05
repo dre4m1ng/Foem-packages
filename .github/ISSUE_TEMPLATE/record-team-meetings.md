@@ -16,18 +16,18 @@ assignees: ''
     → 변경 : 240201 ⇒ 회의날짜 이용
 ```
 
-## Participants : 
+## Participants 
 
 - 
 
-## Agenda : 
+## Agenda 
 
 -
 
-## Contents : 
+## Contents 
 
 - 
 
-## ToDo  :
+## ToDo 
 
 -
