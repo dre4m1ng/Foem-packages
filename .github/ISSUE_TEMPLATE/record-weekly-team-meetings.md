@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-#[{팀명}]주간 회의 기록_{사이클}-{회차}_{yymmdd}
+# [{팀명}]주간 회의 기록_{사이클}-{회차}_{yymmdd}
 ```
 제목 : [SOF]주간 회의 기록_1-4_2402021
     → 변경 : [{팀명}] ⇒ 본인 팀명으로 변경 ex.[감성독서]
@@ -16,18 +16,18 @@ assignees: ''
     → 변경 : 240201 ⇒ 회의날짜 이용
 ```
 
-##Participants : 
+## Participants : 
 
 - 
 
-##Agenda : 
+## Agenda : 
 
 -
 
-##Contents : 
+## Contents : 
 
 - 
 
-##ToDo  :
+## ToDo  :
 
 -
