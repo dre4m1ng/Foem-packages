@@ -4,7 +4,7 @@ about: This is the template you'll use for your team meetings, and you'll build 
   weekly template based on it.
 title: ''
 labels: TeamMeeting
-assignees: Hyuk623
+assignees: ''
 
 ---
 
